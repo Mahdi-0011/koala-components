@@ -1,4 +1,5 @@
 import "./App.scss";
+import Koala from "./components/Koala/Koala";
 
 function App() {
 	return (
@@ -7,6 +8,7 @@ function App() {
 			<p>
 				Ett repo för att dema statiska grundläggande komponenter i React.
 			</p>
+			<Koala />
 		</>
 	);
 }
