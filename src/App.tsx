@@ -1,10 +1,11 @@
 import "./App.scss";
+import Header from "./components/Header/Header";
 import Koala from "./components/Koala/Koala";
 
 function App() {
 	return (
 		<>
-			<h1>🐨 koala-components 🐨</h1>
+			<Header />
 			<p>
 				Ett repo för att dema statiska grundläggande komponenter i React.
 			</p>
