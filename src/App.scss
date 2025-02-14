@@ -1,0 +1,16 @@
+.card {
+  border: 2px solid red;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+  gap: 20px;
+  justify-content: center;
+  .ul {
+    justify-content: center;
+  }
+}
+footer {
+  border: 2px solid green;
+}
+nav {
+  border: 2px solid yellow;
+}

@@ -7,6 +7,9 @@ function App() {
 	return (
 		<>
 			<Header />
+			<nav>
+				Öva sidan!
+			</nav>
 			<h1>
 				Dags att äta torta!
 			</h1>
@@ -36,7 +39,7 @@ MonsterForm (ett formulär för att lägga till monster, formuläret ska INTE fu
 Switch
 ngn annan komponent du kommer på som är statisk
 			</p>
-			<img src="" alt="" />
+			<img src="https://as1.ftcdn.net/v2/jpg/06/58/28/14/1000_F_658281475_rNLOCdjBHt4ESbRUdENiCvL1bgZGnro4.jpg" alt="cute cat" />
 			<p>
 				Ett repo för att dema statiska grundläggande komponenter i React.
 			</p>
@@ -44,6 +47,45 @@ ngn annan komponent du kommer på som är statisk
 			<div>
 				<Placeholder />
 			</div>
+<div className="card">
+	<img src="https://friendlystock.com/wp-content/uploads/2022/01/2-cute-monster-anger-cartoon-clipart.jpg" alt="Monster picture" />
+	<ul>
+		<li>He is not dangeros</li>
+		<li>He has 2 eyes</li>
+		<li>He has 1 head</li>
+	</ul>
+</div>
+<div className="card">
+	<img src="https://friendlystock.com/wp-content/uploads/2022/01/2-cute-monster-anger-cartoon-clipart.jpg" alt="Monster picture" />
+	<ul>
+		<li>He is not dangeros</li>
+		<li>He has 2 eyes</li>
+		<li>He has 1 head</li>
+	</ul>
+</div>
+<div>
+	<h1>Formulär</h1>
+	<form action="">
+		<label htmlFor="">
+			name: 
+			<input type="text" name="" id="" />
+		</label>
+		<label htmlFor="">
+			Head: 
+			<input type="text" name="" id="" />
+		</label>
+		<label htmlFor="">
+			eyes: 
+			<input type="text" name="" id="" />
+		</label>
+	</form>
+</div>
+<div></div>
+			<footer>
+				<p>Email: abc@gmail.com</p>
+				<p>About: react-utvekclare</p>
+
+			</footer>
 		</>
 	);
 }
