@@ -26,18 +26,18 @@ function App() {
 			</select>
 			<p>
 			Heading (en h1-tagg med ngn text i)
-SubHeading (en p-tagg med lite text i)
-Button (en button-tagg med ngn text på)
-DropDown (en select-tagg med några option-taggar i)
-IntroParagraph (en paragraf med kort text)
-CuteCatImage (en bild på en söt katt)
-Footer (en footer efter din egna design)
-NavBar (en navbar efter din egna design)
-MonsterCard (med bild på monster, dess namn och en punktlista med monstrets egenskaper)
-Grid (ett 2x3 grid att lägga MonsterCards eller söta katter i)
-MonsterForm (ett formulär för att lägga till monster, formuläret ska INTE fungera)
-Switch
-ngn annan komponent du kommer på som är statisk
+			SubHeading (en p-tagg med lite text i)
+			Button (en button-tagg med ngn text på)
+			DropDown (en select-tagg med några option-taggar i)
+			IntroParagraph (en paragraf med kort text)
+			CuteCatImage (en bild på en söt katt)
+			Footer (en footer efter din egna design)
+			NavBar (en navbar efter din egna design)
+			MonsterCard (med bild på monster, dess namn och en punktlista med monstrets egenskaper)
+			Grid (ett 2x3 grid att lägga MonsterCards eller söta katter i)
+			MonsterForm (ett formulär för att lägga till monster, formuläret ska INTE fungera)
+			Switch
+			ngn annan komponent du kommer på som är statisk
 			</p>
 			<img src="https://as1.ftcdn.net/v2/jpg/06/58/28/14/1000_F_658281475_rNLOCdjBHt4ESbRUdENiCvL1bgZGnro4.jpg" alt="cute cat" />
 			<p>
@@ -80,7 +80,6 @@ ngn annan komponent du kommer på som är statisk
 		</label>
 	</form>
 </div>
-<div></div>
 			<footer>
 				<p>Email: abc@gmail.com</p>
 				<p>About: react-utvekclare</p>
